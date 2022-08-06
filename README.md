@@ -1,4 +1,4 @@
-# Live_Basic_Session_Template
+# Live Basic Session Template
 a basic template for recording with an organized set of timbres and tools a la V.J.
 
 The concept here is that each instrument has it's own group whereby you can record takes on individual "Take" tracks in each group, then edit/comp the parts you like onto the Trimmed track and mute the Take tracks. All tracks route "down" toward the bottom of the group and allow effects and processing to occur at different stages in the signal flow (Pre-Amp track, Post-FX track, etc.); adjust the top-level "Group" Track Volume when mixing and keep the individual tracks in the group at unity gain (if possible).
